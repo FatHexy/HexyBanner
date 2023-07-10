@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[H3xy]\e[0;3
 clear
 mpv /$HOME/HexyBanner/welcome.mp3
 clear
-echo -e "Created By \e[Fatkhul Abdillah"
+echo -e "Created By \e[5mFatkhul Abdillah"
 echo "----------------------------" | lolcat
 
 echo "
